@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGuyWhoLikesUbuntu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to make your own OS
+- 🌱 I’m currently learning how to make my own OS
 - 💞️ Its my dream to collaborate with Microsoft or Apple
 - 💻 My favorite OS is Ubuntu I just like the way that is made
 
